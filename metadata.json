@@ -1,0 +1,6 @@
+{
+  "name": "Thrust Martial Arts Academy - Dojang OS",
+  "description": "Official academy management & operations platform for Thrust Martial Arts Academy, Chhatarpur, New Delhi (@thrust_martial_arts_academy). Features rapid attendance, fee tracking with UPI/WhatsApp, belt exam readiness, parent portal, and tournament squad management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
